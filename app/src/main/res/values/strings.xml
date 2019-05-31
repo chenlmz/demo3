@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kebabai</string>
+    <string name="app_title">Kebabai į namus</string>
+
+    <string name="login_vardas">Prisijungimo vardas</string>
+    <string name="login_slaptazodis">Slaptažodis</string>
+    <string name="login_prisijungti">Prisijungti</string>
+    <string name="login_registruotis">Registruotis</string>
+    <string name="login_title">Prisijungimas</string>
+    <string name="title_activity_registracija">RegistracijaActivity</string>
+    <string name="title_registracija">Registracija</string>
+    <string name="login_elPastas">El. Pastas</string>
+</resources>
